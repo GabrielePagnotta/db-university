@@ -1,0 +1,1 @@
+3. Selezionare tutti gli studenti che hanno più di 30 anni
